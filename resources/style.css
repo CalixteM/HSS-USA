@@ -79,7 +79,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/quebec/quebec-sigil.png");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/quebec/quebec-sigil.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -97,7 +97,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-quebec11.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-quebec11.jpg");
 }
 
 .quebec p{
@@ -117,7 +117,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/ontario/ontario-flag.png");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/ontario/ontario-flag.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -135,7 +135,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-ontario11.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-ontario11.jpg");
 }
 
 .ontario p{
@@ -159,7 +159,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/california/California-state.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/california/California-state.jpg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -177,7 +177,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-califormnia22511.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-califormnia22511.jpg");
 }
 
 .california:hover p{
@@ -199,7 +199,7 @@ body {
   align-items: center;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/alberta/alberta-flag.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/alberta/alberta-flag.jpg");
 }
 
 .alberta p{
@@ -215,7 +215,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
-  background-image: url("C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-alberta11.jpg");
+  background-image: url("file:///C:/Users/Raf_M/Documents/Coding-projects/Projets/HSSUSA/resources/collage-alberta11.jpg");
 }
 
 .alberta:hover p{
