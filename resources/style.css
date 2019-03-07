@@ -108,6 +108,7 @@ body {
   font-size: 20px;
   display: flex;
   align-content: space-between;
+  justify-content: center;
 }
 
 .ontario {
@@ -146,6 +147,7 @@ body {
   font-size: 20px;
   display: flex;
   align-content: space-between;
+  justify-content: center;
 }
 
 .california h3{
@@ -184,6 +186,7 @@ body {
   font-size: 20px;
   display: flex;
   align-content: space-between;
+  justify-content: center;
 }
 
 .alberta h3{
@@ -222,6 +225,7 @@ body {
   font-size: 20px;
   display: flex;
   align-content: space-between;
+  justify-content: center;
 }
 
 .footer {
