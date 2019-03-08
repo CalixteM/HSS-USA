@@ -86,6 +86,7 @@ body {
 
 .quebec h3{
   padding: 100px 0px 60px 0px;
+  justify-content: center;
 }
 
 .quebec:hover {
@@ -125,6 +126,7 @@ body {
 
 .ontario h3{
   padding: 100px 0px 60px 0px;
+  justify-content: center;
 }
 
 .ontario:hover {
@@ -152,6 +154,7 @@ body {
 
 .california h3{
   padding: 100px 0px 60px 0px;
+  justify-content: center;
 }
 
 .california {
@@ -191,6 +194,7 @@ body {
 
 .alberta h3{
   padding: 100px 0px 60px 0px;
+  justify-content: center;
 }
 
 .alberta {
